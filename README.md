@@ -35,7 +35,9 @@
  - 🗏 [Solo Website](https://raulsdev.github.io/SoloDemo/) / website 
  - 🗏 [Natours Website](https://raulsdev.github.io/natours-v2/) / website
 
-
+**🔭 I’m currently working on ...**
+  - my Portfolio
+  - Learning more about JS and the Frameworks
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulsdev&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
