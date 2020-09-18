@@ -16,7 +16,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
-⚙️**Technologies**
+⚙️**Tools**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
@@ -26,6 +26,9 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Postgress](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostGreSQL&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
+
+**Projects**
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulsdev&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
