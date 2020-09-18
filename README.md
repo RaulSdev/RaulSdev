@@ -2,10 +2,11 @@
 
 # Hi there! Hola! Im Raul<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-  📖 About Me
+  📖 **About Me**
 
-   - 🖥 𝙸'𝚖 𝚊 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-   - 🌎 Fluent in English and Spanish
+   - 🖥 𝙸'𝚖 𝚊 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛.
+   - 🌎 Fluent in English and Spanish.
+   - 📚 i like to learn and keep up with technology.
 
 
 💻**Languages**
