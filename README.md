@@ -29,6 +29,12 @@
 
 **Projects**
 
+ - 🤡 [Face Recognition App](https://smartbrain42.herokuapp.com/) / Web App that recognizes faces in pictures
+ - 📝 [ToDo webApp](https://infinite-earth-77926.herokuapp.com/) / Simple Todo App
+ - 🗏 [RoboFriends](https://raulsdev.github.io/RoboFriends/) / website made with RoboAPI and react
+ - 🗏 [Solo Website](https://raulsdev.github.io/SoloDemo/) / website 
+ - 🗏 [Natours Website](https://raulsdev.github.io/natours-v2/) / website
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulsdev&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
