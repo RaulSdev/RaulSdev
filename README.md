@@ -32,6 +32,7 @@
 
  - 🤡 [Face Recognition App](https://smartbrain42.herokuapp.com/) / Web App that recognizes faces in pictures
  - 📝 [ToDo webApp](https://infinite-earth-77926.herokuapp.com/) / Simple Todo App
+ - 💰 [Budget webApp](https://rolosir.github.io/BudgetoJS/) / Simple Web App for busget made with JS
  - 🗏 [RoboFriends](https://raulsdev.github.io/RoboFriends/) / website made with RoboAPI and react
  - 🗏 [Solo Website](https://raulsdev.github.io/SoloDemo/) / website 
  - 🗏 [Natours Website](https://raulsdev.github.io/natours-v2/) / website
