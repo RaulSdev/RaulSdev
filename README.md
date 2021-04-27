@@ -14,7 +14,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
 ⚙️**Tools**
 
@@ -26,6 +25,8 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Postgress](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostGreSQL&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+
 
 **Projects**
 
